@@ -40,13 +40,13 @@ Version      : 1.0
 :root {
     --main-color: #101010;
     --heading-color: #000000;
-    --primary-color: #ff4f01;
+    --primary-color: #01C2FA;
     --lighter-color: #1F1F1F;
     --subtitle-color: rgb(119, 119, 125);
     --black-color: #070707;
-    --border-color: #ff4f01;
-    --button-border: #ff4f01;
-    --body-background: #fff6ec;
+    --border-color: #01C2FA;
+    --button-border: #01C2FA;
+    --body-background: #fff;
     --white-color: #fff;
 }
 
@@ -1161,7 +1161,7 @@ nav.main-menu {
 .main-hero-area {
     padding-top: 200px;
     padding-bottom: 20px;
-    background-color: #fff6ec;
+    background-color: #fff;
 }
 
 .hero-content {
@@ -2537,7 +2537,7 @@ ul.extra-skills li i {
 
 .call-to-action-area {
     padding-top: 15px;
-    background: #FFF6EC;
+    background: #fff;
 }
 
 .call-to-action-part h2 {

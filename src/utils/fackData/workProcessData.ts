@@ -9,23 +9,23 @@ type DataType = {
 export const workProcessData: DataType = [
     {
         id: 1,
-        title: "Subscribe",
+        title: "Strategize",
         img: "/images/shapes/workprocess-shape1.png",
         icon: "ri-shake-hands-line",
-        description: "Select your plan that fits your needs, get access to Trello board within 24 hours, and start listing your requests.",
+        description: "We start by understanding your vision, business goals, and target audience.",
     },
     {
         id: 2,
-        title: "Receive",
+        title: "Design & Develop",
         img: "/images/shapes/workprocess-shape2.png",
         icon: "ri-global-fill",
-        description: "Nidia Dias is a 3D designer based in the Portugal with an incredible portfolio. From the professional work done with...",
+        description: "Our creative team brings your ideas to life with stunning designs and cutting-edge development.",
     },
     {
         id: 3,
-        title: "Continue",
+        title: "Launch & Grow",
         img: "/images/shapes/workprocess-shape1.png",
         icon: "ri-stack-line",
-        description: "Anta Petrenco shared a beautiful visual identity, branding and packaging design project on their Behance profile...",
+        description: "Once perfected, we launch your project and provide ongoing support.",
     },
 ]

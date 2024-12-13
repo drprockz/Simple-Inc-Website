@@ -7,13 +7,11 @@ const About = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SlideUp className="founder-say-part text-center">
-                            <h3>Designpro took my billion-dollar baby idea, slapped their design magic on it, and boom
-                                –<span>branding so good it makes my other ventures look like lemonade stands.</span>Twist
-                                isn't just a design agency; they're your ticket to the big leagues.</h3>
+                            <h3>Partnering with Simple Inc was a game-changer for us!<br></br><span> Their expertise in app and website development brought our vision to life with precision and creativity.</span> Their team is professional, innovative, and truly committed to delivering excellence. Highly recommended!</h3>
                             <div className="founder-name-part">
-                                <img src="/images/about/founder.png" alt="founder" title="founder" />
-                                <h2>Tanvir Hossain</h2>
-                                <p>Founder of Designpro</p>
+                                <img src="/images/about/Founder-Ayush.png" alt="founder" title="founder" />
+                                <h2>Ayush Sancheti</h2>
+                                <p>Founder of VoxFox Designs</p>
                             </div>
                         </SlideUp>
                     </div>

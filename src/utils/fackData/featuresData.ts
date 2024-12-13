@@ -8,38 +8,38 @@ type DataType = {
 export const featuresData: DataType = [
     {
         id: 1,
-        title: "Unlimited requests",
+        title: "Tailored Solutions",
         icon: "ri-global-fill",
-        description: "Unlimited desgin requests, prioritized by your needs"
+        description: "We provide customized strategies that align with your unique business goals."
     },
     {
         id: 2,
-        title: "Lightning fast",
+        title: "Expert Team",
         icon: "ri-quill-pen-line",
-        description: "Tasks delivered in just 1-2 working business days."
+        description: "Our skilled professionals bring creativity, technical expertise, and innovation to every project."
     },
     {
         id: 3,
-        title: "No contracts",
+        title: "End-to-End Support",
         icon: "ri-pantone-fill",
-        description: "No contracts. Cancel your subscription at any time."
+        description: "From concept to launch and beyond, we’re with you at every step."
     },
     {
         id: 4,
-        title: "No extra Charges",
+        title: "User-Centric Designs",
         icon: "ri-global-fill",
-        description: "Just fixed monthly subscription; No extra charges or fees."
+        description: "We focus on creating engaging, intuitive designs for better user experiences."
     },
     {
         id: 5,
-        title: "Top-notch quality",
+        title: "Scalable Services",
         icon: "ri-pantone-fill",
-        description: "Access incredible design quality whenever you need it."
+        description: "Solutions designed to grow with your business and adapt to market changes."
     },
     {
         id: 6,
-        title: "Risk-free Revisions",
+        title: "On-Time Delivery",
         icon: "ri-pantone-fill",
-        description: "Revise until 100% satisfied without any extra cost."
+        description: "We prioritize timelines without compromising on quality."
     }
 ]

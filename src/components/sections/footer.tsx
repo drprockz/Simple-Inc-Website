@@ -6,7 +6,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-lg-4">
                             <div className="copyright-text">
-                                <p>Copyright <a href="#">©DesignPro</a> All Rights Reserved.</p>
+                                <p>Copyright <a href="www.simpleinc.in">© Simple Inc</a> All Rights Reserved.</p>
                             </div>
                         </div>
                         <div className="col-lg-8">

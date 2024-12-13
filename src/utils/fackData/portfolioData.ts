@@ -1,26 +1,26 @@
 export const portfolioData = [
     {
         id:1,
-        title:"Mobile Application Design",
-        img:"/images/projects/work7.jpg",
+        title:"FinWebsite Design",
+        img:"/images/projects/Simple Inc Work 1.png",
         category:"Branding"
     },
     {
         id:2,
-        title:"Website Makeup Design",
-        img:"/images/projects/work1.jpg",
-        category:"Design"
+        title:"Photography Portfolio Website",
+        img:"/images/projects/Simple Inc Work 4.png",
+        category:"Design & Development"
     },
     {
         id:3,
-        title:"Brand Identity and Motion Design",
-        img:"/images/projects/work6.jpg",
-        category:"Graphics"
+        title:"Drop - Mobile App ",
+        img:"/images/projects/Simple Inc Work 3.png",
+        category:"App Development"
     },
     {
         id:4,
-        title:"Creative Graphics Design",
-        img:"/images/projects/work5.jpg",
-        category:"Branding"
+        title:"Dashboard",
+        img:"/images/projects/Simple Inc Work 6.png",
+        category:"Development"
     },
 ]

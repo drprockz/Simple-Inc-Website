@@ -30,9 +30,9 @@ const App = () => {
         <Projects />
         <Testimonials />
         <Features />
-        <Pricing />
+        {/* <Pricing /> */}
         <Faqs />
-        <Booking />
+        {/* <Booking /> */}
       </main>
       <Footer />
       <ScrollToTop />
