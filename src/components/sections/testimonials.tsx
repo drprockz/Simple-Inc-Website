@@ -29,7 +29,8 @@ const Testimonials = () => {
                             modules={[Navigation, Autoplay]}
                         >
                             {
-                                testimonilasData.map(({ id, img, name, position, review }) => {
+                                // testimonilasData.map(({ id, img, name, position, review }) => {
+                                    testimonilasData.map(({ id, name, position, review }) => {
                                     return (
                                         <SwiperSlide key={id}>
                                             <div className="testimonials-wrap">
