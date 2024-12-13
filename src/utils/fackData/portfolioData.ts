@@ -1,7 +1,7 @@
 export const portfolioData = [
     {
         id:1,
-        title:"FinWebsite Design",
+        title:"Financial Website Design",
         img:"/images/projects/Simple Inc Work 1.png",
         category:"Branding"
     },

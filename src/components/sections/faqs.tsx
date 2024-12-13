@@ -10,16 +10,17 @@ const Faqs = () => {
                         <SectionTitle>
                             <SectionTitle.Name>FAQs</SectionTitle.Name>
                             <SectionTitle.Title>Frequently Asked Questions</SectionTitle.Title>
-                            <SectionTitle.Description>Unsure about subscription design?</SectionTitle.Description>
+                            <SectionTitle.Description>Got Questions? Here’s Everything You Need to Know!</SectionTitle.Description>
                         </SectionTitle>
                     </div>
                 </div>
                 <div className="row">
                     <div className="col-lg-4 col-md-6">
-                        <div className="book-call-intro text-center"><img src="/images/about/founder.png" alt="founder" title="founder" />
+                        <div className="book-call-intro text-center">
+                            {/* <img src="/images/about/founder.png" alt="founder" title="founder" /> */}
                             <h2>Book a 15-minute intro call</h2>
                             <a href="#" className="theme-btn">Schedule now<i className="ri-video-chat-line" /></a>
-                            <p>Prefer to email? <a href="mailto:hello@designpro.com">hello@designpro.com</a></p>
+                            <p>Prefer to email? <a href="mailto:info@simpleinc.in">info@simpleinc.in</a></p>
                         </div>
                     </div>
                     <div className="col-lg-8 col-md-6">

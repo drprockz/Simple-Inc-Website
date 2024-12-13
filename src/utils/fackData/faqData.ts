@@ -6,33 +6,33 @@ type DataType = {
 export const faqData: DataType = [
     {
         id: "one",
-        question: "How secure is my financial data on your platform?",
-        ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families.",
+        question: "What services do you offer?",
+        ans: "We specialize in app development, website development, branding, and enhancing your social media presence.",
     },
     {
         id: "two",
-        question: "How does the subscription work?",
-        ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families."
+        question: "How long does it take to develop a website or app?",
+        ans: "Timelines depend on the project scope, but we ensure timely delivery without compromising on quality."
     },
     {
         id: "three",
-        question: "How much do your plans cost?",
-        ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families."
+        question: "Do you offer custom solutions for my business needs?",
+        ans: "Yes, all our services are tailored to align with your unique goals and audience."
     },
     {
         id: "four",
-        question: "How quickly can You deliver designs for our business?",
-        ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families."
+        question: "Can you help with rebranding an existing business?",
+        ans: "Absolutely! We provide comprehensive branding services, including logo design, brand identity, and strategy updates."
     },
     {
         id: "five",
-        question: "Can I request revisions to the designs provided?",
-        ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families."
+        question: "Do you offer maintenance and support after project completion?",
+        ans: "Yes, we provide ongoing support and maintenance to ensure your digital assets perform optimally."
     },
     {
         id: "six",
-        question: "What types of designs does Designpro specialize in?",
-        ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families."
+        question: "Do you handle e-commerce website development?",
+        ans: "Yes, we create user-friendly and secure e-commerce platforms to help you grow your online business."
     },
 
 ]

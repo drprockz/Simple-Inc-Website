@@ -13,7 +13,7 @@ const Footer = () => {
                             <div className="footer-bottom-menu">
                                 <ul>
                                     <li><a href="#">Latest Project</a></li>
-                                    <li><a href="#">Pricing</a></li>
+                                    {/* <li><a href="#">Pricing</a></li> */}
                                     <li><a href="#">Contact</a></li>
                                     <li><a href="#">Privacy Policy</a></li>
                                     <li><a href="#">Terms &amp; conditions</a></li>

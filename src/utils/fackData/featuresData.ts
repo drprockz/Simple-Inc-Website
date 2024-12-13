@@ -16,7 +16,7 @@ export const featuresData: DataType = [
         id: 2,
         title: "Expert Team",
         icon: "ri-quill-pen-line",
-        description: "Our skilled professionals bring creativity, technical expertise, and innovation to every project."
+        description: "Our skilled professionals bring creativity, expertise, and innovation to every project."
     },
     {
         id: 3,

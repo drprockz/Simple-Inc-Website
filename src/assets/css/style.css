@@ -922,6 +922,13 @@ html {
 
 }
 
+.main-header.fixed-header .header-upper {
+    background: rgba(255, 255, 255, 0.5) !important;
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-radius: 10px;
+}
+
 .header-inner {
     padding: 20px 0px;
     -webkit-transition: all 500ms ease;
@@ -2077,6 +2084,9 @@ ul.extra-skills li i {
     text-align: center;
 }
 
+.testimonials-slider-swiper {
+    height: 87%;
+}
 
 .testimonial-item .author {
     margin-bottom: 5px;
@@ -3393,7 +3403,7 @@ ul.blog_pagination li a:hover {
 * ----------------------------------------------------------------------------------------
 */
 
-.partner .scroller{
+.partner .scroller {
     overflow: hidden;
     -webkit-mask: -webkit-linear-gradient(left,
             transparent,
@@ -3403,7 +3413,7 @@ ul.blog_pagination li a:hover {
     mask: linear-gradient(90deg, transparent, white 20%, white 80%, transparent);
 }
 
-.partner .scroller .rfm-marquee{
+.partner .scroller .rfm-marquee {
     justify-content: center;
 }
 

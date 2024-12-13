@@ -10,7 +10,7 @@ const Testimonials = () => {
             <div className="container">
                 <div className="row">
                     <SlideUp className="col-lg-12">
-                        <Swiper
+                        <Swiper className="testimonials-slider-swiper"
                             navigation={{
                                 nextEl: ".testimonial-next",
                                 prevEl: ".testimonial-prev"
@@ -36,7 +36,7 @@ const Testimonials = () => {
                                                 <div className="testimonial-item">
                                                     <div className="text">{review}</div>
                                                     <div className="author">
-                                                        <img src={img} alt="Author" />
+                                                        {/* <img src={img} alt="Author" /> */}
                                                     </div>
                                                     <div className="testi-des">
                                                         <h5>{name}</h5>

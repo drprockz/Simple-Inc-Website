@@ -8,12 +8,11 @@ const Hero = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-12">
                         <SlideUp className="hero-content position-relative">
-                            <h3><i className="ri-refresh-line" />Subscription. Pause or cancel anytime</h3>
-                            <h2>Hire Full-Service Design Agency For A Simple Monthly Fee.</h2>
-                            <p>Create your products with top-tier designers at an affordable price. One subscription fee
-                                covers unlimited design requests.</p>
+                            <h3>We Keep it Simple!</h3>
+                            <h2>Crafting Powerful Digital Solutions – Your Partner for Seamless Growth!</h2>
+                            <p>Elevate your brand with tailored design and development solutions. From innovative websites and apps to impactful branding, we deliver excellence that drives results. Let’s create something extraordinary together!</p>
                             <div className="hero-btns">
-                                <Link to="pricing" smooth={true}  className="theme-btn">See Pricing Plans</Link>
+                                <Link to="pricing" smooth={true}  className="theme-btn">Let's get started!</Link>
                                 <Link to="book" smooth={true}  className="theme-btn differenct-color">Book a free call</Link>
                             </div>
                             <div className="dot-shape"><img src="/images/shapes/shape1.png" alt="Shape" /></div>
